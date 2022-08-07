@@ -1,0 +1,41 @@
+.card1{
+    margin-left: 15rem;
+    margin-right: 3rem;
+    margin-top: 50px;
+    width: 18rem;
+    display: flex;
+    float: left;
+    /* display: inline-block; */
+}
+.card2{
+    width: 18rem;
+    display: inline-block;
+    /* display: flex; */
+    margin-top: 100px;
+}
+
+.informations{
+    float: right;
+    margin-top: 200px;
+    margin-right: 270px;
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    height: 22rem;
+    /* text-align:justify; */
+    /* border: 5px solid blue; */
+}
+
+.informations .heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+/* .section3{
+    background-image: url(../asset/section4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 180px;
+} */
+
+

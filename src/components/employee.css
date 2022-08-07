@@ -1,0 +1,21 @@
+.image-container{
+    display: flex;
+}
+
+.image1 img{
+    height: 10rem;
+    width: 15rem;
+    margin:5rem 3rem 1rem 18rem;
+}
+
+.image3 img{
+    height: 10rem;
+    width: 15rem;
+    margin: 5rem 3rem 1rem 3rem;
+}
+
+.image4 img{
+    height: 10rem;
+    width: 15rem;
+    margin: 5rem 7rem 1rem 3rem;
+}

@@ -1,0 +1,29 @@
+.contact{
+    margin-top: 20px;
+    text-align: center;
+}
+ .contact input{
+    padding: 5px 10px;
+    width: 20rem;
+    outline: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+ }
+ .contact .head{
+    font-size: 2rem;
+    margin-bottom: 20px;
+ }
+
+ .contact .button{
+    padding: 5px;
+    width: 10rem;
+    background-color: black;
+    color:white;
+    font-weight: 400;
+ }
+
+ .contact p{
+    color: green;
+    margin-bottom: 3rem;
+ }
+ 

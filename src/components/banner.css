@@ -1,0 +1,22 @@
+.banner{
+    /* background-image: url(../asset/section4.png);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #EEF7F3;
+    padding-bottom: 50px;
+}
+
+.info2{
+    margin-top: 1rem;
+    position: relative;
+    top:20rem;
+    /* left:30rem; */
+    color:aliceblue;
+    font-weight:bolder;
+    text-align:center;
+}
+
+.image2{
+    display: flex;
+    justify-content:center ;
+}
