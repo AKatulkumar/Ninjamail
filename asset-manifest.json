@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ninjamail/static/css/main.9d6ed226.css",
+    "main.js": "/Ninjamail/static/js/main.4df38175.js",
+    "static/js/787.3e9d026e.chunk.js": "/Ninjamail/static/js/787.3e9d026e.chunk.js",
+    "static/media/section2.png": "/Ninjamail/static/media/section2.889b8e90f10454975952.png",
+    "static/media/section1.png": "/Ninjamail/static/media/section1.8e4d1bbca37b35a7c834.png",
+    "static/media/Section5.png": "/Ninjamail/static/media/Section5.dc0b24aede1c6103c9f5.png",
+    "static/media/emp.jpg": "/Ninjamail/static/media/emp.bfa673c3e0a5d77881a7.jpg",
+    "static/media/section3.png": "/Ninjamail/static/media/section3.0289e2149d487a359cb8.png",
+    "static/media/happy.jpg": "/Ninjamail/static/media/happy.ec96e84ba6ecbb198f4d.jpg",
+    "static/media/chef.jpg": "/Ninjamail/static/media/chef.af53245a5ea362a718be.jpg",
+    "index.html": "/Ninjamail/index.html",
+    "main.9d6ed226.css.map": "/Ninjamail/static/css/main.9d6ed226.css.map",
+    "main.4df38175.js.map": "/Ninjamail/static/js/main.4df38175.js.map",
+    "787.3e9d026e.chunk.js.map": "/Ninjamail/static/js/787.3e9d026e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d6ed226.css",
+    "static/js/main.4df38175.js"
+  ]
+}
